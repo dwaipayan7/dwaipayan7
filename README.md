@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1R0KXTmYt3ocDJNNKN7BkmsWw1rW4y921/view?usp=sharing)
 
-- ⚡ Fun fact **I am a quick learner and a passionate coder**
+- ⚡ Fun fact **Not your type**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
