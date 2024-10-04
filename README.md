@@ -9,7 +9,7 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on **Meditation Application**
+- 🔭 I’m currently working on **Design Application**
 
 - 🌱 I’m currently learning **Blockchain, Postgres, MongoDB**
 
