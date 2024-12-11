@@ -90,6 +90,11 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dwaipayan7&show_icons=true&locale=en&theme=algolia" alt="dwaipayan7" /></p>
 
- <img src="https://streak-stats.demolab.com/?user=dwaipayan7&theme=algolia&hide_border=true&mode=daily" alt="dwaipayan7 streak stats" />
+<img 
+  src="https://streak-stats.demolab.com/?user=dwaipayan7&theme=radical&hide_border=false&mode=weekly&ring=ff0000&fire=orange&background=000000" 
+  alt="dwaipayan7 streak stats" 
+  style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"
+/>
+
 
 
