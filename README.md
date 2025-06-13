@@ -1,96 +1,98 @@
-<h1 align="center">Hi 👋, I'm Dwaipayan Biswas</h1>
-<h3 align="center"> A passionate Application Developer 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C4FF&center=true&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+Dwaipayan+Biswas;%F0%9F%9A%80+App+Developer+%26+Flutter+Expert" alt="Typing SVG">
+  </a>
+</h1>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" style="padding-top: 5px;">
-
-<p align="center"> 
-<!--   <a href="https://github.com/ryo-ma/github-profile-trophy"> -->
-<!--     <img src="https://github-profile-trophy.vercel.app/?username=dwaipayan7&theme=algolia" alt="dwaipayan7" /> -->
-  </a> 
+<p align="center">
+  <a href="https://github.com/dwaipayan7"><img src="https://img.shields.io/github/followers/dwaipayan7?label=Follow&style=social" alt="Follow on GitHub"></a>
+<!--   <a href="https://github.com/dwaipayan7?tab=repositories"><img src="https://img.shields.io/github/repo-size/dwaipayan7?label=Repo%20Size&style=for-the-badge" alt="Repo Size"></a> -->
+  <a href="https://github.com/dwaipayan7"><img src="https://img.shields.io/github/last-commit/dwaipayan7/clean_architecture_flutter?style=for-the-badge" alt="Last Commit"></a>
+  <a href="https://github.com/dwaipayan7"><img src="https://img.shields.io/github/languages/top/dwaipayan7/clean_architecture_flutter?style=flat-square" alt="Top Language"></a>
 </p>
 
-- 🔭 I’m currently working on **Design Application**
+<p align="center">  
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="200" alt="Coding Animation">
+</p>
 
-- 🌱 I’m currently learning **Blockchain, Postgres, MongoDB**
+---
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/dwaipayan7)
+### 🔭 What I’m Working On
+- Designing **sophisticated mobile apps** using clean architecture.
+- Building knowledge in **Blockchain**, **PostgreSQL**, and **MongoDB**.
 
-- 💬 Ask me about **Flutter & Android Development**
+---
 
-- 📫 How to reach me **biswasdwai007@gmail.com**
+### 🌱 I’m Currently Learning
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> Flutter</code>  
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"> Android</code>  
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> Kotlin</code>  
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> PostgreSQL</code>  
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> MongoDB</code>  
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"> Node.js/Express</code>  
+<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python</code>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1R0KXTmYt3ocDJNNKN7BkmsWw1rW4y921/view?usp=sharing)
+---
 
-<h3 align="left">Connect with me:</h3>
+### 💬 Ask Me About
+- Mobile & cross-platform app dev (Flutter & Android)
+- Clean architecture best practices
+- REST APIs, Supabase, Firebase, Postgres
+- Coding in **Java**, **Dart**, **Kotlin**, **JavaScript**, **Python**, **C**
+
+---
+
+### 📫 How to Reach Me
+[✉️ Email](mailto:biswasdwai007@gmail.com)  •  
+[LinkedIn](https://linkedin.com/in/dwaipayan-biswas-35b04921a) •  
+[Instagram](https://instagram.com/_dwaipayan_biswas_)
+
+---
+
+### 🛠️ Skills & Tools
 <p align="left">
-  <a href="https://linkedin.com/in/dwaipayan-biswas-35b04921a" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Dwaipayan Biswas LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/_dwaipayan_biswas_" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Dwaipayan Biswas Instagram" height="30" width="40" />
-  </a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="30" height="30"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="30" height="30"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="30" height="30"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="30" height="30"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="30" height="30"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="30" height="30"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="ExpressJS" width="30" height="30"/></a>
+  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="30" height="30"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-  </a> 
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> 
-  </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> 
-  </a> 
+---
+
+### 📊 Stats   
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dwaipayan7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwaipayan7&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwaipayan7&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
+
+  <a href="https://github.com/dwaipayan7">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dwaipayan7&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph">
+  </a>
+
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dwaipayan7&show_icons=true&locale=en&layout=compact&theme=algolia" alt="dwaipayan7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dwaipayan7&show_icons=true&locale=en&theme=algolia" alt="dwaipayan7" /></p>
-
- <img src="https://streak-stats.demolab.com/?user=dwaipayan7&theme=algolia&hide_border=true&mode=daily" alt="dwaipayan7 streak stats" />
 
 
+---
 
+### 💖 Support & Socials
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/dwaipayan7">
+    <img src="https://img.shields.io/badge/Buy_Me_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Support" />
+  </a>
+  <a href="https://twitter.com/dwaipayan_dev">
+    <img src="https://img.shields.io/badge/-@dwaipayan_dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://linkedin.com/in/dwaipayan-biswas-35b04921a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
