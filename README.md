@@ -1,98 +1,160 @@
+
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=00C4FF&center=true&width=600&lines=%F0%9F%91%8B+Hey%2C+I'm+Dwaipayan+Biswas;%F0%9F%9A%80+Mobile+Engineer" alt="Typing SVG">
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=34&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hey+👋,+I'm+Dwaipayan+Biswas;Mobile+Engineer+📱;React+Native+%7C+Flutter+Developer;Node.js+Backend+Developer+⚡;Building+Modern+Apps+🚀" />
 </h1>
 
 <p align="center">
-  <a href="https://github.com/dwaipayan7"><img src="https://img.shields.io/github/followers/dwaipayan7?label=Follow&style=social" alt="Follow on GitHub"></a>
-<!--   <a href="https://github.com/dwaipayan7?tab=repositories"><img src="https://img.shields.io/github/repo-size/dwaipayan7?label=Repo%20Size&style=for-the-badge" alt="Repo Size"></a> -->
-  <!-- <a href="https://github.com/dwaipayan7"><img src="https://img.shields.io/github/last-commit/dwaipayan7/clean_architecture_flutter?style=for-the-badge" alt="Last Commit"></a>
-  <a href="https://github.com/dwaipayan7"><img src="https://img.shields.io/github/languages/top/dwaipayan7/clean_architecture_flutter?style=flat-square" alt="Top Language"></a> -->
-</p>
-
-<p align="center">  
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="200" alt="Coding Animation">
+  <img src="https://komarev.com/ghpvc/?username=dwaipayan7&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/dwaipayan7?label=Followers&style=social" />
 </p>
 
 ---
 
-### 🔭 What I’m Working On
-- Designing **sophisticated mobile apps** using clean architecture.
-- Building knowledge in **Blockchain**, **PostgreSQL**, and **MongoDB**.
-
----
-
-### 🌱 I’m Currently Learning
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg"> Flutter</code>  
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg"> Android</code>  
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"> Kotlin</code>  
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"> PostgreSQL</code>  
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> MongoDB</code>  
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg"> Node.js/Express</code>  
-<code><img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Python</code>
-
----
-
-### 💬 Ask Me About
-- Mobile & cross-platform app dev (Flutter & Android)
-- Clean architecture best practices
-- REST APIs, Supabase, Firebase, Postgres
-- Coding in **Java**, **Dart**, **Kotlin**, **JavaScript**, **Python**, **C**
-
----
-
-### 📫 How to Reach Me
-[✉️ Email](mailto:biswasdwai007@gmail.com)  •  
-[LinkedIn](https://linkedin.com/in/dwaipayan-biswas-35b04921a) •  
-[Instagram](https://instagram.com/_dwaipayan_biswas_)
-
----
-
-### 🛠️ Skills & Tools
-<p align="left">
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="30" height="30"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="30" height="30"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="30" height="30"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="30" height="30"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="Dart" width="30" height="30"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="30" height="30"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="ExpressJS" width="30" height="30"/></a>
-  <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="30" height="30"/></a>
-</p>
-
----
-
-### 📊 Stats   
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dwaipayan7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwaipayan7&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwaipayan7&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" alt="Top Languages" />
-
-  <a href="https://github.com/dwaipayan7">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=dwaipayan7&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph">
-  </a>
-
+  <img width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>
-
-
 
 ---
 
-### 💖 Support & Socials
+# 💫 About Me
+
+🚀 Mobile Engineer passionate about building scalable and beautiful applications.
+
+💡 I love working with:
+- React Native
+- Flutter
+- Node.js
+- Clean Architecture
+- Real-time apps
+- Backend systems
+
+🌱 Currently exploring:
+- Blockchain
+- PostgreSQL
+- System Design
+- AI Integrations
+- High-performance mobile apps
+
+---
+
+# ⚡ Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=react,reactnative,flutter,dart,kotlin,java,nodejs,express,mongodb,postgresql,firebase,python,javascript,typescript,git,github,vscode,androidstudio" />
+
+</p>
+
+---
+
+# 📱 Mobile Development
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### React Native
+⚡ Cross-platform mobile apps  
+⚡ Redux / Zustand / React Query  
+⚡ Native integrations  
+⚡ Performance optimization  
+
+</td>
+
+<td align="center" width="50%">
+
+### Flutter
+🔥 Clean architecture  
+🔥 BLoC / Cubit  
+🔥 Firebase & REST APIs  
+🔥 Smooth animations  
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 Backend Development
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</p>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dwaipayan7&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dwaipayan7&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dwaipayan7&theme=tokyonight&hide_border=true&border_radius=15"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dwaipayan7&theme=tokyo-night&hide_border=true&area=true"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dwaipayan7&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:biswasdwai007@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/dwaipayan-biswas-35b04921a">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/_dwaipayan_biswas_">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/dwaipayan_dev">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# ☕ Support Me
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/dwaipayan7">
-    <img src="https://img.shields.io/badge/Buy_Me_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Support" />
-  </a>
-  <a href="https://twitter.com/dwaipayan_dev">
-    <img src="https://img.shields.io/badge/-@dwaipayan_dev-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://linkedin.com/in/dwaipayan-biswas-35b04921a">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50"/>
   </a>
 </p>
+
+---
+
+<p align="center">
+  
+### ⚡ “Code. Build. Scale. Repeat.” ⚡
+
+</p>
+
