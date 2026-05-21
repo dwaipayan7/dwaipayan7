@@ -7,8 +7,8 @@
 <p align="center">
   <a href="https://github.com/dwaipayan7"><img src="https://img.shields.io/github/followers/dwaipayan7?label=Follow&style=social" alt="Follow on GitHub"></a>
 <!--   <a href="https://github.com/dwaipayan7?tab=repositories"><img src="https://img.shields.io/github/repo-size/dwaipayan7?label=Repo%20Size&style=for-the-badge" alt="Repo Size"></a> -->
-  <a href="https://github.com/dwaipayan7"><img src="https://img.shields.io/github/last-commit/dwaipayan7/clean_architecture_flutter?style=for-the-badge" alt="Last Commit"></a>
-  <a href="https://github.com/dwaipayan7"><img src="https://img.shields.io/github/languages/top/dwaipayan7/clean_architecture_flutter?style=flat-square" alt="Top Language"></a>
+  <!-- <a href="https://github.com/dwaipayan7"><img src="https://img.shields.io/github/last-commit/dwaipayan7/clean_architecture_flutter?style=for-the-badge" alt="Last Commit"></a>
+  <a href="https://github.com/dwaipayan7"><img src="https://img.shields.io/github/languages/top/dwaipayan7/clean_architecture_flutter?style=flat-square" alt="Top Language"></a> -->
 </p>
 
 <p align="center">  
