@@ -8,13 +8,13 @@
   <img src="https://img.shields.io/github/followers/dwaipayan7?label=Followers&style=social" />
 </p>
 
----
+
 
 <!-- <p align="center">
   <img width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p> -->
 
----
+
 
 # 💫 About Me
 
