@@ -41,7 +41,7 @@
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,reactnative,flutter,dart,kotlin,java,nodejs,express,mongodb,postgresql,firebase,python,javascript,typescript,git,github,vscode,androidstudio" />
+<img src="https://skillicons.dev/icons?i=react,flutter,dart,kotlin,java,nodejs,express,mongodb,postgresql,firebase,python,javascript,typescript,git,github,vscode,androidstudio" />
 
 </p>
 
